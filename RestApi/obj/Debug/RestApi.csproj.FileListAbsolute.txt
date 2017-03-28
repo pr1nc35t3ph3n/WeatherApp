@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\bin\Debug\RestApi.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\bin\Debug\RestApi.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\bin\Debug\RestApi.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\obj\Debug\RestApi.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\obj\Debug\RestApi.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\obj\Debug\RestApi.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\obj\Debug\RestApi.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\RestApi\RestApi\obj\Debug\RestApi.pdb
